@@ -1,0 +1,5 @@
+{
+  "player.changedLanguageTo": "&aLanguage have been changed to english successfully!",
+  "player.currentLanguage": "&eYour current language is {language}",
+  "invalidLanguage": "&cYou have typed invalid language. Tab complete to receive a list of languages!"
+}

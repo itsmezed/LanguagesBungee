@@ -1,0 +1,5 @@
+name: LanguagesBungee
+main: com.mrivanplays.languages.LanguagesPlugin
+version: ${project.version}
+author: MrIvanPlays
+description: Per player languages for BungeeCord

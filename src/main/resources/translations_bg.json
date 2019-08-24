@@ -1,0 +1,5 @@
+{
+  "player.changedLanguageTo": "&aЕзика Ви беше сменен на български успешно!",
+  "player.currentLanguage": "&eВашият език е {language}",
+  "invalidLanguage": "&cНаписахте непознат език. Моля, натиснете tab докато пишете езика за лист с езици!"
+}
