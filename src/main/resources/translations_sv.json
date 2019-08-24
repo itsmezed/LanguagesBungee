@@ -1,0 +1,5 @@
+{
+  "player.changedLanguageTo": "&aSpråk har ändrats till Svenska.",
+  "player.currentLanguage": "&eDitt nuvarande  språk är {language}",
+  "invalidLanguage": "&cDu har angett ett ogiltigt språk. Tab complete för att få en lista på all språk!"
+}
